@@ -105,10 +105,6 @@ I like shipping practical systems that hold up under real usage: frontend experi
 - growing a portfolio around tooling, data workflows, and AI product systems
 - contributing to stronger OSS repos with real review and testing bars
 
-## Contribution Snake
-
-<img src="https://raw.githubusercontent.com/terminalchai/terminalchai/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-
 ## Contact
 
 - Email: [terminalchai@gmail.com](mailto:terminalchai@gmail.com)
