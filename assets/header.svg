@@ -1,0 +1,80 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal Chai profile banner</title>
+  <desc id="desc">Dark chai-themed banner for Terminal Chai with portfolio-inspired styling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0A0F"/>
+      <stop offset="0.55" stop-color="#111118"/>
+      <stop offset="1" stop-color="#161622"/>
+    </linearGradient>
+    <linearGradient id="line" x1="146" y1="0" x2="1054" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F59E0B" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="852" y1="42" x2="1070" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="window" x1="810" y1="88" x2="1082" y2="252" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171724"/>
+      <stop offset="1" stop-color="#0E0E14"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="27" stroke="#252530"/>
+  <ellipse cx="955" cy="140" rx="180" ry="120" fill="url(#glow)"/>
+  <ellipse cx="1045" cy="86" rx="90" ry="62" fill="#F59E0B" fill-opacity="0.10"/>
+  <path d="M0 253C82 214 158 193 252 196C382 200 454 257 596 259C730 261 850 200 958 204C1050 208 1128 239 1200 280V320H0V253Z" fill="#F59E0B" fill-opacity="0.06"/>
+  <path d="M0 279C116 246 250 232 362 248C470 262 551 290 678 291C831 292 948 238 1073 241C1118 242 1158 248 1200 260V320H0V279Z" fill="#FB923C" fill-opacity="0.08"/>
+  <rect x="72" y="62" width="172" height="34" rx="17" fill="#171724" stroke="#252530"/>
+  <circle cx="97" cy="79" r="4" fill="#F59E0B"/>
+  <text x="115" y="84" fill="#94A3B8" font-family="'JetBrains Mono', Consolas, monospace" font-size="13">$ open profile --theme chai</text>
+
+  <text x="72" y="146" fill="#F8FAFC" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="50" font-weight="700">Terminal Chai</text>
+  <text x="72" y="186" fill="#CBD5E1" font-family="'Outfit', 'Segoe UI', sans-serif" font-size="21">Senior Software Engineer | Full-Stack Systems | AI Products | Open Source</text>
+  <text x="72" y="221" fill="#94A3B8" font-family="'Outfit', 'Segoe UI', sans-serif" font-size="17">Building product-grade tools, sharp interfaces, and practical workflow systems.</text>
+
+  <rect x="72" y="248" width="126" height="28" rx="14" fill="#1A1A24" stroke="#2C2C3A"/>
+  <text x="90" y="266" fill="#FDBA74" font-family="'JetBrains Mono', Consolas, monospace" font-size="13">React</text>
+  <text x="140" y="266" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="13">|</text>
+  <text x="153" y="266" fill="#FDBA74" font-family="'JetBrains Mono', Consolas, monospace" font-size="13">TypeScript</text>
+
+  <rect x="210" y="248" width="110" height="28" rx="14" fill="#1A1A24" stroke="#2C2C3A"/>
+  <text x="228" y="266" fill="#FDBA74" font-family="'JetBrains Mono', Consolas, monospace" font-size="13">Python</text>
+  <text x="279" y="266" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="13">|</text>
+  <text x="292" y="266" fill="#FDBA74" font-family="'JetBrains Mono', Consolas, monospace" font-size="13">Spring</text>
+
+  <rect x="334" y="248" width="129" height="28" rx="14" fill="#1A1A24" stroke="#2C2C3A"/>
+  <text x="352" y="266" fill="#FDBA74" font-family="'JetBrains Mono', Consolas, monospace" font-size="13">AI Workflows</text>
+
+  <line x1="146" y1="299.5" x2="1054" y2="299.5" stroke="url(#line)"/>
+
+  <rect x="814" y="68" width="300" height="176" rx="22" fill="url(#window)" stroke="#2A2A3A"/>
+  <rect x="814" y="68" width="300" height="32" rx="22" fill="#181823"/>
+  <circle cx="840" cy="84" r="4" fill="#F87171"/>
+  <circle cx="856" cy="84" r="4" fill="#FBBF24"/>
+  <circle cx="872" cy="84" r="4" fill="#34D399"/>
+  <text x="894" y="88" fill="#94A3B8" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">featured.projects</text>
+
+  <rect x="838" y="120" width="250" height="24" rx="12" fill="#111118" stroke="#242433"/>
+  <text x="854" y="136" fill="#F59E0B" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">1</text>
+  <text x="878" y="136" fill="#E2E8F0" font-family="'Outfit', 'Segoe UI', sans-serif" font-size="13">Devshots</text>
+  <text x="960" y="136" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">code screenshots</text>
+
+  <rect x="838" y="152" width="250" height="24" rx="12" fill="#111118" stroke="#242433"/>
+  <text x="854" y="168" fill="#F59E0B" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">2</text>
+  <text x="878" y="168" fill="#E2E8F0" font-family="'Outfit', 'Segoe UI', sans-serif" font-size="13">Statcards</text>
+  <text x="964" y="168" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">stats visuals</text>
+
+  <rect x="838" y="184" width="250" height="24" rx="12" fill="#111118" stroke="#242433"/>
+  <text x="854" y="200" fill="#F59E0B" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">3</text>
+  <text x="878" y="200" fill="#E2E8F0" font-family="'Outfit', 'Segoe UI', sans-serif" font-size="13">Mockdata Run</text>
+  <text x="979" y="200" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">dev tooling</text>
+
+  <rect x="838" y="216" width="250" height="24" rx="12" fill="#111118" stroke="#242433"/>
+  <text x="854" y="232" fill="#F59E0B" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">4</text>
+  <text x="878" y="232" fill="#E2E8F0" font-family="'Outfit', 'Segoe UI', sans-serif" font-size="13">Forma Studio</text>
+  <text x="980" y="232" fill="#64748B" font-family="'JetBrains Mono', Consolas, monospace" font-size="11">editorial web</text>
+</svg>

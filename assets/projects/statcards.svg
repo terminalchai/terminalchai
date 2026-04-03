@@ -1,0 +1,36 @@
+<svg width="560" height="280" viewBox="0 0 560 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Statcards project card</title>
+  <desc id="desc">Chai-themed feature card for Statcards.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="560" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0A0F"/>
+      <stop offset="1" stop-color="#151520"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="386" y1="22" x2="520" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="280" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="558" height="278" rx="23" stroke="#252530"/>
+  <ellipse cx="452" cy="120" rx="96" ry="86" fill="url(#accent)"/>
+  <rect x="28" y="28" width="66" height="24" rx="12" fill="#191924" stroke="#282839"/>
+  <text x="46" y="44" fill="#67E8F9" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">visual</text>
+  <text x="28" y="98" fill="#F8FAFC" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="32" font-weight="700">Statcards</text>
+  <text x="28" y="128" fill="#CBD5E1" font-family="'Outfit', 'Segoe UI', sans-serif" font-size="16">Beautiful GitHub stats cards with multiple themes,</text>
+  <text x="28" y="151" fill="#CBD5E1" font-family="'Outfit', 'Segoe UI', sans-serif" font-size="16">PNG export, and zero-backend deployment.</text>
+  <rect x="28" y="180" width="74" height="24" rx="12" fill="#14141D" stroke="#2A2A38"/>
+  <text x="46" y="196" fill="#67E8F9" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">Charts</text>
+  <rect x="112" y="180" width="88" height="24" rx="12" fill="#14141D" stroke="#2A2A38"/>
+  <text x="130" y="196" fill="#67E8F9" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">Design</text>
+  <rect x="210" y="180" width="112" height="24" rx="12" fill="#14141D" stroke="#2A2A38"/>
+  <text x="228" y="196" fill="#67E8F9" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">SVG Export</text>
+  <line x1="28" y1="230.5" x2="532" y2="230.5" stroke="#232334"/>
+  <text x="28" y="252" fill="#94A3B8" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">Live demo + repo</text>
+  <rect x="390" y="44" width="122" height="154" rx="20" fill="#101018" stroke="#2B2B3A"/>
+  <rect x="407" y="64" width="24" height="88" rx="10" fill="#0F172A"/>
+  <rect x="438" y="96" width="24" height="56" rx="10" fill="#1D4ED8"/>
+  <rect x="469" y="78" width="24" height="74" rx="10" fill="#38BDF8"/>
+  <rect x="407" y="162" width="86" height="14" rx="7" fill="#222235"/>
+  <text x="420" y="222" fill="#F8FAFC" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="40" font-weight="700">SC</text>
+</svg>

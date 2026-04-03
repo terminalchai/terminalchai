@@ -1,10 +1,11 @@
 # Terminal Chai
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:06b6d4&height=230&section=header&text=Terminal%20Chai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20Systems%20%7C%20AI%20Products%20%7C%20Open%20Source&descAlignY=58" alt="Terminal Chai banner" />
+  <img src="./assets/header.svg" alt="Terminal Chai portfolio-style banner" />
 </p>
 
 <p align="center">
+  <a href="https://terminal-chai-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:terminalchai@gmail.com"><img src="https://img.shields.io/badge/Email-terminalchai%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/terminalchai"><img src="https://img.shields.io/badge/GitHub-terminalchai-0b0f19?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/Terminalchai"><img src="https://img.shields.io/badge/X-Terminalchai-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -13,12 +14,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=terminalchai&style=flat-square&color=2563eb" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20Systems%20%7C%20Tooling-0f172a?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Python%20%7C%20Spring%20Boot-1e293b?style=flat-square" alt="Stack" />
+  <img src="https://img.shields.io/badge/Build-React%20%7C%20TypeScript%20%7C%20Python%20%7C%20Spring%20Boot-1e293b?style=flat-square" alt="Build" />
 </p>
 
 Senior Software Engineer building product-grade web apps, developer tooling, workflow systems, and AI-assisted platforms.
 
-I like shipping practical systems that hold up under real usage: frontend experiences that feel sharp, backend services that stay predictable, and internal tools that remove friction instead of adding it.
+I ship practical systems that hold up under real usage: sharp frontend experiences, predictable backend services, and internal tools that remove friction instead of adding it.
 
 ## What I Build
 
@@ -29,61 +30,66 @@ I like shipping practical systems that hold up under real usage: frontend experi
 
 ## Snapshot
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=terminalchai&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminalchai&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=terminalchai&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=terminalchai&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terminalchai&theme=tokyonight" alt="Profile summary" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terminalchai&theme=tokyonight" alt="Profile summary" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=terminalchai&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
 
-## Highlights
-
-<img src="https://github-profile-trophy.vercel.app/?username=terminalchai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=terminalchai&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=terminalchai&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+</p>
 
 ## Featured Projects
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/terminalchai/mockdata-run">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminalchai&repo=mockdata-run&theme=tokyonight&hide_border=true" alt="mockdata-run" />
+    <td width="50%">
+      <a href="https://devshots-phi.vercel.app">
+        <img src="./assets/projects/devshots.svg" alt="Devshots project card" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/terminalchai/devshots">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminalchai&repo=devshots&theme=tokyonight&hide_border=true" alt="devshots" />
+    <td width="50%">
+      <a href="https://statcards.vercel.app">
+        <img src="./assets/projects/statcards.svg" alt="Statcards project card" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/terminalchai/statcards">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminalchai&repo=statcards&theme=tokyonight&hide_border=true" alt="statcards" />
+    <td width="50%">
+      <a href="https://github.com/terminalchai/mockdata-run">
+        <img src="./assets/projects/mockdata-run.svg" alt="Mockdata Run project card" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/terminalchai/forma-studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=terminalchai&repo=forma-studio&theme=tokyonight&hide_border=true" alt="forma-studio" />
+    <td width="50%">
+      <a href="https://forma-studio-flax.vercel.app">
+        <img src="./assets/projects/forma-studio.svg" alt="Forma Studio project card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://nova-support.vercel.app">
+        <img src="./assets/projects/nova-support.svg" alt="NovaSupport project card" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://chromewebstore.google.com/detail/jephdljbbfhdmgbpbpjddcgjmofhnkan">
+        <img src="./assets/projects/suggest-pilot.svg" alt="SuggestPilot project card" />
       </a>
     </td>
   </tr>
 </table>
+
+- **Devshots**: Beautiful code screenshots with 22+ themes, gradients, and PNG/SVG export. [Live](https://devshots-phi.vercel.app) | [Repo](https://github.com/terminalchai/devshots)
+- **Statcards**: Shareable GitHub stats visuals with multiple themes and zero-backend deployment. [Live](https://statcards.vercel.app) | [Repo](https://github.com/terminalchai/statcards)
+- **Mockdata Run**: Seeded mock datasets for demos, QA, and prototype payload generation. [Repo](https://github.com/terminalchai/mockdata-run)
+- **Forma Studio**: Editorial-style creative studio site with strong visual rhythm and polished presentation. [Live](https://forma-studio-flax.vercel.app) | [Repo](https://github.com/terminalchai/forma-studio)
+- **NovaSupport**: Support profile pages for Stellar ecosystem contributors with transparent asset flows. [Live](https://nova-support.vercel.app) | [Repo](https://github.com/terminalchai/NovaSupport)
+- **SuggestPilot**: Chrome extension for context-aware autocomplete suggestions powered by LLM workflows. [Store](https://chromewebstore.google.com/detail/jephdljbbfhdmgbpbpjddcgjmofhnkan) | [Repo](https://github.com/terminalchai/SuggestPilot)
+- **Portfolio**: Full personal portfolio site with the same dark chai visual language. [Live](https://terminal-chai-portfolio.vercel.app)
 
 ## Open Source Proof
 
@@ -107,6 +113,7 @@ I like shipping practical systems that hold up under real usage: frontend experi
 
 ## Contact
 
+- Portfolio: [terminal-chai-portfolio.vercel.app](https://terminal-chai-portfolio.vercel.app)
 - Email: [terminalchai@gmail.com](mailto:terminalchai@gmail.com)
 - GitHub: [github.com/terminalchai](https://github.com/terminalchai)
 - X: [@Terminalchai](https://x.com/Terminalchai)

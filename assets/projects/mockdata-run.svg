@@ -1,0 +1,37 @@
+<svg width="560" height="280" viewBox="0 0 560 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mockdata Run project card</title>
+  <desc id="desc">Chai-themed feature card for Mockdata Run.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="560" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0A0F"/>
+      <stop offset="1" stop-color="#151520"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="386" y1="22" x2="520" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="280" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="558" height="278" rx="23" stroke="#252530"/>
+  <ellipse cx="452" cy="120" rx="96" ry="86" fill="url(#accent)"/>
+  <rect x="28" y="28" width="82" height="24" rx="12" fill="#191924" stroke="#282839"/>
+  <text x="46" y="44" fill="#6EE7B7" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">tooling</text>
+  <text x="28" y="98" fill="#F8FAFC" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="30" font-weight="700">Mockdata Run</text>
+  <text x="28" y="128" fill="#CBD5E1" font-family="'Outfit', 'Segoe UI', sans-serif" font-size="16">Schema-driven mock datasets for demos, QA,</text>
+  <text x="28" y="151" fill="#CBD5E1" font-family="'Outfit', 'Segoe UI', sans-serif" font-size="16">and prototype payload generation.</text>
+  <rect x="28" y="180" width="86" height="24" rx="12" fill="#14141D" stroke="#2A2A38"/>
+  <text x="46" y="196" fill="#6EE7B7" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">Schemas</text>
+  <rect x="124" y="180" width="92" height="24" rx="12" fill="#14141D" stroke="#2A2A38"/>
+  <text x="142" y="196" fill="#6EE7B7" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">JSON/CSV</text>
+  <rect x="226" y="180" width="94" height="24" rx="12" fill="#14141D" stroke="#2A2A38"/>
+  <text x="244" y="196" fill="#6EE7B7" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">QA Flows</text>
+  <line x1="28" y1="230.5" x2="532" y2="230.5" stroke="#232334"/>
+  <text x="28" y="252" fill="#94A3B8" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">Repo-first project</text>
+  <rect x="390" y="44" width="122" height="154" rx="20" fill="#101018" stroke="#2B2B3A"/>
+  <rect x="406" y="66" width="90" height="20" rx="10" fill="#0F172A"/>
+  <rect x="406" y="98" width="90" height="16" rx="8" fill="#0B1220"/>
+  <rect x="406" y="122" width="76" height="16" rx="8" fill="#0B1220"/>
+  <rect x="406" y="146" width="90" height="16" rx="8" fill="#0B1220"/>
+  <circle cx="479" cy="130" r="21" fill="#10B981"/>
+  <text x="421" y="222" fill="#F8FAFC" font-family="'Space Grotesk', 'Segoe UI', sans-serif" font-size="40" font-weight="700">MR</text>
+</svg>
