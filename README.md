@@ -12,34 +12,31 @@
 </p>
 
 <p align="center">
-  <code>React</code>
-  <code>TypeScript</code>
-  <code>Python</code>
-  <code>Spring Boot</code>
-  <code>AI Tooling</code>
-  <code>Open Source</code>
+  <img src="https://komarev.com/ghpvc/?username=terminalchai&style=flat-square&color=2563eb" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20Systems%20%7C%20Tooling-0f172a?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Build-React%20%7C%20TypeScript%20%7C%20Python%20%7C%20Spring%20Boot-1e293b?style=flat-square" alt="Build" />
 </p>
 
-<p align="center">
-  Senior Software Engineer building product-grade web apps, developer tooling, workflow systems, and AI-assisted platforms.
-</p>
+Senior Software Engineer building product-grade web apps, developer tooling, workflow systems, and AI-assisted platforms.
 
-<p align="center">
-  I ship sharp interfaces, dependable backend systems, and AI workflow tools built for actual developer use.
-</p>
+I ship practical systems that hold up under real usage: sharp frontend experiences, predictable backend services, and internal tools that remove friction instead of adding it.
+
+## What I Build
+
+- Full-stack product surfaces with React, TypeScript, Next.js, and modern UI systems.
+- Backend and integration-heavy services across Node.js, Python, Java, and Spring Boot.
+- AI workflow tools, prompt systems, and utility products built for actual developer use.
+- Open source fixes that are scoped well, tested properly, and reviewed against real standards.
 
 ## Snapshot
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=terminalchai&theme=tokyonight" alt="GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=terminalchai&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terminalchai&theme=tokyonight" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=terminalchai&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=terminalchai&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
@@ -105,3 +102,16 @@
 
 - [skrun-dev/skrun#6](https://github.com/skrun-dev/skrun/pull/6)
   Added `--force` support across CLI, API, and tests.
+
+## Current Direction
+
+- building stronger public proof around engineering depth, not just side-project count
+- growing a portfolio around tooling, data workflows, and AI product systems
+- contributing to stronger OSS repos with real review and testing bars
+
+## Contact
+
+- Portfolio: [terminal-chai-portfolio.vercel.app](https://terminal-chai-portfolio.vercel.app)
+- Email: [terminalchai@gmail.com](mailto:terminalchai@gmail.com)
+- GitHub: [github.com/terminalchai](https://github.com/terminalchai)
+- X: [@Terminalchai](https://x.com/Terminalchai)
