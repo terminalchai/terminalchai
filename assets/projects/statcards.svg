@@ -25,8 +25,6 @@
   <text x="130" y="196" fill="#67E8F9" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">Design</text>
   <rect x="210" y="180" width="112" height="24" rx="12" fill="#14141D" stroke="#2A2A38"/>
   <text x="228" y="196" fill="#67E8F9" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">SVG Export</text>
-  <line x1="28" y1="230.5" x2="532" y2="230.5" stroke="#232334"/>
-  <text x="28" y="252" fill="#94A3B8" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">Live demo + repo</text>
   <rect x="390" y="44" width="122" height="154" rx="20" fill="#101018" stroke="#2B2B3A"/>
   <rect x="407" y="64" width="24" height="88" rx="10" fill="#0F172A"/>
   <rect x="438" y="96" width="24" height="56" rx="10" fill="#1D4ED8"/>

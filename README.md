@@ -12,37 +12,40 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=terminalchai&style=flat-square&color=2563eb" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20Systems%20%7C%20Tooling-0f172a?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Build-React%20%7C%20TypeScript%20%7C%20Python%20%7C%20Spring%20Boot-1e293b?style=flat-square" alt="Build" />
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>Python</code>
+  <code>Spring Boot</code>
+  <code>AI Tooling</code>
+  <code>Open Source</code>
 </p>
 
-Senior Software Engineer building product-grade web apps, developer tooling, workflow systems, and AI-assisted platforms.
+<p align="center">
+  Senior Software Engineer building product-grade web apps, developer tooling, workflow systems, and AI-assisted platforms.
+</p>
 
-I ship practical systems that hold up under real usage: sharp frontend experiences, predictable backend services, and internal tools that remove friction instead of adding it.
-
-## What I Build
-
-- Full-stack product surfaces with React, TypeScript, Next.js, and modern UI systems.
-- Backend and integration-heavy services across Node.js, Python, Java, and Spring Boot.
-- AI workflow tools, prompt systems, and utility products built for actual developer use.
-- Open source fixes that are scoped well, tested properly, and reviewed against real standards.
+<p align="center">
+  I ship sharp interfaces, dependable backend systems, and AI workflow tools built for actual developer use.
+</p>
 
 ## Snapshot
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terminalchai&theme=tokyonight" alt="Profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=terminalchai&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=terminalchai&theme=tokyonight" alt="GitHub stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=terminalchai&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=terminalchai&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
-## Featured Projects
+## Selected Work
 
 <table>
   <tr>
@@ -50,11 +53,13 @@ I ship practical systems that hold up under real usage: sharp frontend experienc
       <a href="https://devshots-phi.vercel.app">
         <img src="./assets/projects/devshots.svg" alt="Devshots project card" />
       </a>
+      <p align="center"><sub><a href="https://devshots-phi.vercel.app">Live</a> | <a href="https://github.com/terminalchai/devshots">Repo</a></sub></p>
     </td>
     <td width="50%">
       <a href="https://statcards.vercel.app">
         <img src="./assets/projects/statcards.svg" alt="Statcards project card" />
       </a>
+      <p align="center"><sub><a href="https://statcards.vercel.app">Live</a> | <a href="https://github.com/terminalchai/statcards">Repo</a></sub></p>
     </td>
   </tr>
   <tr>
@@ -62,11 +67,13 @@ I ship practical systems that hold up under real usage: sharp frontend experienc
       <a href="https://github.com/terminalchai/mockdata-run">
         <img src="./assets/projects/mockdata-run.svg" alt="Mockdata Run project card" />
       </a>
+      <p align="center"><sub><a href="https://github.com/terminalchai/mockdata-run">Repo</a></sub></p>
     </td>
     <td width="50%">
       <a href="https://forma-studio-flax.vercel.app">
         <img src="./assets/projects/forma-studio.svg" alt="Forma Studio project card" />
       </a>
+      <p align="center"><sub><a href="https://forma-studio-flax.vercel.app">Live</a> | <a href="https://github.com/terminalchai/forma-studio">Repo</a></sub></p>
     </td>
   </tr>
   <tr>
@@ -74,22 +81,16 @@ I ship practical systems that hold up under real usage: sharp frontend experienc
       <a href="https://nova-support.vercel.app">
         <img src="./assets/projects/nova-support.svg" alt="NovaSupport project card" />
       </a>
+      <p align="center"><sub><a href="https://nova-support.vercel.app">Live</a> | <a href="https://github.com/terminalchai/NovaSupport">Repo</a></sub></p>
     </td>
     <td width="50%">
       <a href="https://chromewebstore.google.com/detail/jephdljbbfhdmgbpbpjddcgjmofhnkan">
         <img src="./assets/projects/suggest-pilot.svg" alt="SuggestPilot project card" />
       </a>
+      <p align="center"><sub><a href="https://chromewebstore.google.com/detail/jephdljbbfhdmgbpbpjddcgjmofhnkan">Store</a> | <a href="https://github.com/terminalchai/SuggestPilot">Repo</a></sub></p>
     </td>
   </tr>
 </table>
-
-- **Devshots**: Beautiful code screenshots with 22+ themes, gradients, and PNG/SVG export. [Live](https://devshots-phi.vercel.app) | [Repo](https://github.com/terminalchai/devshots)
-- **Statcards**: Shareable GitHub stats visuals with multiple themes and zero-backend deployment. [Live](https://statcards.vercel.app) | [Repo](https://github.com/terminalchai/statcards)
-- **Mockdata Run**: Seeded mock datasets for demos, QA, and prototype payload generation. [Repo](https://github.com/terminalchai/mockdata-run)
-- **Forma Studio**: Editorial-style creative studio site with strong visual rhythm and polished presentation. [Live](https://forma-studio-flax.vercel.app) | [Repo](https://github.com/terminalchai/forma-studio)
-- **NovaSupport**: Support profile pages for Stellar ecosystem contributors with transparent asset flows. [Live](https://nova-support.vercel.app) | [Repo](https://github.com/terminalchai/NovaSupport)
-- **SuggestPilot**: Chrome extension for context-aware autocomplete suggestions powered by LLM workflows. [Store](https://chromewebstore.google.com/detail/jephdljbbfhdmgbpbpjddcgjmofhnkan) | [Repo](https://github.com/terminalchai/SuggestPilot)
-- **Portfolio**: Full personal portfolio site with the same dark chai visual language. [Live](https://terminal-chai-portfolio.vercel.app)
 
 ## Open Source Proof
 
@@ -104,16 +105,3 @@ I ship practical systems that hold up under real usage: sharp frontend experienc
 
 - [skrun-dev/skrun#6](https://github.com/skrun-dev/skrun/pull/6)
   Added `--force` support across CLI, API, and tests.
-
-## Current Direction
-
-- building stronger public proof around engineering depth, not just side-project count
-- growing a portfolio around tooling, data workflows, and AI product systems
-- contributing to stronger OSS repos with real review and testing bars
-
-## Contact
-
-- Portfolio: [terminal-chai-portfolio.vercel.app](https://terminal-chai-portfolio.vercel.app)
-- Email: [terminalchai@gmail.com](mailto:terminalchai@gmail.com)
-- GitHub: [github.com/terminalchai](https://github.com/terminalchai)
-- X: [@Terminalchai](https://x.com/Terminalchai)

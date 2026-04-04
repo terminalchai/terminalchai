@@ -25,8 +25,6 @@
   <text x="142" y="196" fill="#D8B4FE" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">Motion</text>
   <rect x="216" y="180" width="92" height="24" rx="12" fill="#14141D" stroke="#2A2A38"/>
   <text x="234" y="196" fill="#D8B4FE" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">Brand Web</text>
-  <line x1="28" y1="230.5" x2="532" y2="230.5" stroke="#232334"/>
-  <text x="28" y="252" fill="#94A3B8" font-family="'JetBrains Mono', Consolas, monospace" font-size="12">Live demo + repo</text>
   <rect x="390" y="44" width="122" height="154" rx="20" fill="#101018" stroke="#2B2B3A"/>
   <rect x="406" y="60" width="90" height="118" rx="16" fill="#120F1C"/>
   <rect x="420" y="76" width="62" height="56" rx="14" fill="#C084FC"/>
