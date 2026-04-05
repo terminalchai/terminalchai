@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://terminal-chai-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://terminalchai.com"><img src="https://img.shields.io/badge/Portfolio-terminalchai.com-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:terminalchai@gmail.com"><img src="https://img.shields.io/badge/Email-terminalchai%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/terminalchai"><img src="https://img.shields.io/badge/GitHub-terminalchai-0b0f19?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/Terminalchai"><img src="https://img.shields.io/badge/X-Terminalchai-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -47,30 +47,30 @@ I ship practical systems that hold up under real usage: sharp frontend experienc
 <table>
   <tr>
     <td width="50%">
-      <a href="https://devshots-phi.vercel.app">
+      <a href="https://devshots.terminalchai.com">
         <img src="./assets/projects/devshots.svg" alt="Devshots project card" />
       </a>
-      <p align="center"><sub><a href="https://devshots-phi.vercel.app">Live</a> | <a href="https://github.com/terminalchai/devshots">Repo</a></sub></p>
+      <p align="center"><sub><a href="https://devshots.terminalchai.com">Live</a> | <a href="https://github.com/terminalchai/devshots">Repo</a></sub></p>
     </td>
     <td width="50%">
-      <a href="https://statcards.vercel.app">
+      <a href="https://statcards.terminalchai.com">
         <img src="./assets/projects/statcards.svg" alt="Statcards project card" />
       </a>
-      <p align="center"><sub><a href="https://statcards.vercel.app">Live</a> | <a href="https://github.com/terminalchai/statcards">Repo</a></sub></p>
+      <p align="center"><sub><a href="https://statcards.terminalchai.com">Live</a> | <a href="https://github.com/terminalchai/statcards">Repo</a></sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/terminalchai/mockdata-run">
+      <a href="https://mockdata-run.terminalchai.com">
         <img src="./assets/projects/mockdata-run.svg" alt="Mockdata Run project card" />
       </a>
-      <p align="center"><sub><a href="https://github.com/terminalchai/mockdata-run">Repo</a></sub></p>
+      <p align="center"><sub><a href="https://mockdata-run.terminalchai.com">Live</a> | <a href="https://github.com/terminalchai/mockdata-run">Repo</a></sub></p>
     </td>
     <td width="50%">
-      <a href="https://forma-studio-flax.vercel.app">
+      <a href="https://forma-studio.terminalchai.com">
         <img src="./assets/projects/forma-studio.svg" alt="Forma Studio project card" />
       </a>
-      <p align="center"><sub><a href="https://forma-studio-flax.vercel.app">Live</a> | <a href="https://github.com/terminalchai/forma-studio">Repo</a></sub></p>
+      <p align="center"><sub><a href="https://forma-studio.terminalchai.com">Live</a> | <a href="https://github.com/terminalchai/forma-studio">Repo</a></sub></p>
     </td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ I ship practical systems that hold up under real usage: sharp frontend experienc
 
 ## Contact
 
-- Portfolio: [terminal-chai-portfolio.vercel.app](https://terminal-chai-portfolio.vercel.app)
+- Portfolio: [terminalchai.com](https://terminalchai.com)
 - Email: [terminalchai@gmail.com](mailto:terminalchai@gmail.com)
 - GitHub: [github.com/terminalchai](https://github.com/terminalchai)
 - X: [@Terminalchai](https://x.com/Terminalchai)
