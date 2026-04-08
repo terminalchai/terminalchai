@@ -89,7 +89,25 @@ I ship practical systems that hold up under real usage: sharp frontend experienc
   </tr>
 </table>
 
-## Open Source Proof
+## Open Source Contributions
+
+<!-- OSS-STATS:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Merged%20OSS%20PRs-18-111827?style=for-the-badge&logo=github&logoColor=white" alt="Merged OSS PRs" />
+  <img src="https://img.shields.io/badge/Repos%20Contributed%20To-11-0f172a?style=for-the-badge" alt="Repos contributed to" />
+</p>
+
+Recent merged PRs:
+
+- [Shantanugupta43/SuggestPilot#28](https://github.com/Shantanugupta43/SuggestPilot/pull/28) Add smart fill support for language fields (Apr 04, 2026)
+- [shoelace-style/webawesome#2133](https://github.com/shoelace-style/webawesome/pull/2133) fix(carousel): re-sync slides when carousel becomes visible in hidden container (Apr 03, 2026)
+- [chahe-dridi/vscode-setup#54](https://github.com/chahe-dridi/vscode-setup/pull/54) feat: add Catppuccin to themes (Apr 02, 2026)
+- [chahe-dridi/vscode-setup#53](https://github.com/chahe-dridi/vscode-setup/pull/53) docs: add README demo gif (Apr 02, 2026)
+- [chahe-dridi/vscode-setup#52](https://github.com/chahe-dridi/vscode-setup/pull/52) test: add installExtensions mock coverage (Apr 02, 2026)
+- [Shantanugupta43/SuggestPilot#29](https://github.com/Shantanugupta43/SuggestPilot/pull/29) Stop loading overlay when extension is disabled (Mar 31, 2026)
+<!-- OSS-STATS:END -->
+
+### Selected OSS Proof
 
 - [plotly/dash#3723](https://github.com/plotly/dash/pull/3723)
   Fixed misaligned `dcc.Slider` marks when empty labels are used and added a regression test.
