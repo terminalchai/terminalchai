@@ -13,7 +13,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=terminalchai&style=flat-square&color=2563eb" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20Systems%20%7C%20Tooling-0f172a?style=flat-square" alt="Focus" />
+      <a href="https://u8views.com/github/terminalchai"><img src="https://u8views.com/api/v1/github/profiles/213856599/views/day-week-month-total-count.svg" alt="u8views profile views" /></a>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20Systems%20%7C%20Tooling-0f172a?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Build-React%20%7C%20TypeScript%20%7C%20Python%20%7C%20Spring%20Boot-1e293b?style=flat-square" alt="Build" />
 </p>
 
