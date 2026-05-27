@@ -126,7 +126,7 @@ Recent merged PRs:
 
 - building stronger public proof around engineering depth, not just side-project count
 - growing a portfolio around tooling, data workflows, and AI product systems
-- contributing to stronger OSS repos with real review and testing bars
+- contributing to stronger OSS repos with real review, duplicate checks, and maintainer-requested follow-ups
 
 ## Contact
 
